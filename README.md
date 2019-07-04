@@ -1,2 +1,2 @@
 # hello-world
-github is cool and belongs to Microsoft
+Github is cool and belongs to Microsoft
